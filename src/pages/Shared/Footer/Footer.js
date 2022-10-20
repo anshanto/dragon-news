@@ -1,6 +1,6 @@
 import React from 'react';
 
-const Foter = () => {
+const Footer = () => {
     return (
         <div>
             <p><small>this is footer</small></p>
@@ -8,4 +8,4 @@ const Foter = () => {
     );
 };
 
-export default Foter;
+export default Footer;
